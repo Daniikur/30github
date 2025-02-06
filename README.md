@@ -63,5 +63,4 @@ Each day, I will create a new project focusing on different technologies, such a
 | 30 | Final Full-Stack App | Combination of Java, Python, React |
 
 ## 🚀 Let’s Go!
-Each project will be uploaded daily on [GitHub](https://github.com/Daniikur).  
-Stay tuned for updates! 🚀
+
