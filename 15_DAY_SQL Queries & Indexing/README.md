@@ -43,9 +43,12 @@ This repository contains exercises and tasks focused on mastering advanced SQL q
 
 ### Screenshot of Query Results:
 
-![Query Results Screenshot](images/screenshot.png)
-![Query Results Screenshot](images/screenshot.png)
-![Query Results Screenshot](images/screenshot.png)
+![Query Results Screenshot](![Screenshot 2025-02-18 130953](https://github.com/user-attachments/assets/e7a0916d-7eb9-4763-a643-b9353f67d704)
+)
+![Query Results Screenshot](![Screenshot 2025-02-18 131309](https://github.com/user-attachments/assets/c9d831d4-4170-41b5-83dd-90249cad3658)
+)
+![Query Results Screenshot](![Screenshot 2025-02-18 131535](https://github.com/user-attachments/assets/55f2f4dd-ea02-4fd6-9f64-f1c7c36070ed)
+)
 
 ---
 
