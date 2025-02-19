@@ -1,0 +1,12 @@
+com\example\myapp\MyappApplication.class
+com\example\myapp\User.class
+com\example\myapp\model\UserCache.class
+com\example\myapp\service\UserService.class
+com\example\myapp\HelloController.class
+com\example\myapp\repository\PersonRepository.class
+com\example\myapp\repository\UserCacheRepository.class
+com\example\myapp\model\Person.class
+com\example\myapp\UserService.class
+com\example\myapp\repository\UserRepository.class
+com\example\myapp\model\User.class
+com\example\myapp\controller\UserController.class
