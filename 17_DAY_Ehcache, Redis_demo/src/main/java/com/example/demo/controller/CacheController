@@ -1,0 +1,24 @@
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CacheController {
+    private final DataService dataService;
+    private final RedisDataService redisDataService;
+
+    public CacheController(DataService dataService, RedisDataService redisDataService) {
+        this.dataService = dataService;
+        this.redisDataService = redisDataService;
+    }
+
+    @GetMapping("/ehcache")
+    public int getEhcacheNumber(@RequestParam int num) {
+        return dataService.getNumber(num);
+    }
+
+    @GetMapping("/redis")
+    public int getRedisNumber(@RequestParam int num) {
+        return redisDataService.getNumber(num);
+    }
+}
