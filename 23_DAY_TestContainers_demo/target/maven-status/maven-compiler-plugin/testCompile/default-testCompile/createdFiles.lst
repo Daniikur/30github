@@ -1,0 +1,6 @@
+com\example\demo\Transactional.class
+com\example\demo\DemoApplicationTests.class
+com\example\demo\PostgreSQLContainerTest.class
+com\example\demo\model\User.class
+com\example\demo\repository\JpaRepository.class
+com\example\demo\repository\UserRepository.class
