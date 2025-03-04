@@ -1,0 +1,6 @@
+com/cinema/model/Seat.class
+com/cinema/App.class
+com/cinema/controller/SeatController.class
+com/cinema/service/SeatService.class
+com/cinema/config/SecurityConfig.class
+com/cinema/repository/SeatRepository.class
